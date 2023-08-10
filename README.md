@@ -1,5 +1,5 @@
 # house-price-prediction
-house price prediction using linear regression
+House Price Prediction with Linear Regression Involves Following Steps:
 
 Dataset Collection: Gather historical house price data and corresponding features from platforms like Zillow or Kaggle.
 
